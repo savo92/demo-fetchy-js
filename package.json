@@ -10,7 +10,7 @@
     "webpack": "^3.5.5"
   },
   "dependencies": {
-    "fetchy-js": "^0.0.3"
+    "fetchy-js": "0.0.8"
   },
   "scripts": {
     "build": "./node_modules/.bin/webpack"
